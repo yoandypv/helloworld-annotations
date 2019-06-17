@@ -1,0 +1,3 @@
+# HelloWorld-annotations-java
+
+Este es un ejemplo de como crear una anotación parametrizable en Java que se aplica (target) es un método y que tiene la funcionalidad de ejecutar repetidas veces el método anotado. El número de veces que se ejecuta el método depende del parámetro de la anotación. Se provee además un método para debuggear la anotación pues la misma trabaja a nivel de modo de ejecución (RUNTIME)
